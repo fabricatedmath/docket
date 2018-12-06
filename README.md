@@ -21,7 +21,7 @@ Organizing repos/projects
 [ShaderToy - Bifurcations Can Be Beautiful](https://www.shadertoy.com/view/XdtBDn)
 
 ### Research
-#### Rework of [V1stdp](https://github.com/fabricatedmath/V1stdp) by [ThomasMiconi](https://github.com/ThomasMiconi)
+#### Reworks of [V1stdp](https://github.com/fabricatedmath/V1stdp) by [ThomasMiconi](https://github.com/ThomasMiconi)
 (pending python-stdp)
 
 [accelerate-stdp](https://github.com/fabricatedmath/accelerate-stdp)

@@ -36,7 +36,7 @@ Organizing repos/projects
 
 ### Util
 
-(pending hpylon)
+[hpylon](https://github.com/fabricatedmath/hpylon)
 
 ## TODO
 

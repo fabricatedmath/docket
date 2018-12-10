@@ -12,7 +12,7 @@ Organizing repos/projects
 
 [trench](https://github.com/fabricatedmath/trench)
 
-[firestarter (pending)](https://github.com/fabricatedmath/firestarter)
+[firestarter](https://github.com/fabricatedmath/firestarter)
 
 [smoothfractal](https://github.com/fabricatedmath/smoothfractal)
 
